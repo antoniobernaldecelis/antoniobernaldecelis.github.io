@@ -2,6 +2,8 @@
    DATOS DE LA WEB  ·  Edita aquí el contenido
    ----------------------------------------------------------------
    - CONFIG: nombre, frase, texto "Sobre mí", email y redes.
+     En "bio" puedes usar <b>negrita</b>, <i>cursiva</i> y <br> para
+     saltar de línea, siempre DENTRO de las comillas.
    - COMPOSITIONS: cada obra. Las categorías (menú "Música") se
      generan solas a partir del campo "category".
    - Colores y tipografía NO están aquí: ver css/theme.css
@@ -19,7 +21,7 @@
       "Compositor de música para videojuegos.",
 
     bio:
-      "Escribo música desde hace varios años, combinando el lenguaje de la música de videojuegos, música sinfónica y banda tradicional.",
+      "Soy artista musical, con especial interés en diseño de sonido, composición musical y creación de SFX para videojuegos.<br><br>Componente como <b>trompetista</b> durante 5 años en la Agrupación Musical Lágrimas de Dolores (San Fernando, Cádiz).<br><br>Actualmente participo en la OrquestaVS como <b>guitarrista</b>.",
 
     mail:
       "antoniobernaldecelis@gmail.com",
